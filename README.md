@@ -1,7 +1,6 @@
 # Mini ERP System
 
-A full-stack Mini ERP application built for the NexAltis Technologies
-"Full Stack Developer Internship" technical assessment. **Node.js / Express /
+A full-stack Mini ERP application built with **Node.js / Express /
 PostgreSQL** backend with JWT authentication and dynamic Role-Based Access
 Control (RBAC), and a **React (Vite)** frontend with a sidebar that changes
 per role.
