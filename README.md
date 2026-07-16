@@ -6,7 +6,7 @@ PostgreSQL** backend with JWT authentication and dynamic Role-Based Access
 Control (RBAC), and a **React (Vite)** frontend with a sidebar that changes
 per role.
 
-## Feature checklist (against the assessment spec)
+## Feature checklist 
 
 - **Authentication**: Login, Logout, JWT-based auth, protected APIs, role-based authorization.
 - **Dashboard**: welcome message, logged-in user details, user role, current session status, today's working hours.
